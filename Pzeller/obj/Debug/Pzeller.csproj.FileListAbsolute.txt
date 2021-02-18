@@ -1,0 +1,7 @@
+E:\Projects\git\Pzeller\bin\Debug\Pzeller.exe.config
+E:\Projects\git\Pzeller\bin\Debug\Pzeller.exe
+E:\Projects\git\Pzeller\bin\Debug\Pzeller.pdb
+E:\Projects\git\Pzeller\obj\Debug\Pzeller.csprojAssemblyReference.cache
+E:\Projects\git\Pzeller\obj\Debug\Pzeller.csproj.CoreCompileInputs.cache
+E:\Projects\git\Pzeller\obj\Debug\Pzeller.exe
+E:\Projects\git\Pzeller\obj\Debug\Pzeller.pdb
